@@ -1,273 +1,283 @@
-92.71.28.0/22,NL,,Hague
-92.71.32.0/20,US,,Ashburn
-92.71.48.0/21,,,
-92.71.56.0/22,NL,,Hague
-92.71.64.0/18,US,,Ashburn
-92.71.2.0/23,BE,,Brussels
-92.71.4.0/23,BE,,Brussels
-92.71.26.0/23,BE,,Brussels
-92.71.62.0/23,BE,,Brussels
-109.204.0.0/22,US,,Los Angeles
-109.204.16.0/22,US,,Los Angeles
-109.204.24.0/22,US,,Los Angeles
-109.204.96.0/22,US,,Los Angeles
-109.204.104.0/21,HK,,Hong Kong
-109.204.6.0/23,GB,,London
-109.204.12.0/23,GB,,London
-109.204.20.0/23,GB,,London
-109.204.28.0/23,GB,,London
-109.204.32.0/23,GB,,London
-109.204.40.0/23,GB,,London
-109.204.44.0/23,GB,,London
-109.204.50.0/23,GB,,London
-109.204.54.0/23,GB,,London
-109.204.58.0/23,GB,,London
-109.204.60.0/23,GB,,London
-109.204.72.0/23,GB,,London
-109.204.82.0/23,GB,,London
-109.204.92.0/23,GB,,London
-109.204.112.0/23,GB,,London
-109.204.120.0/23,GB,,London
-109.204.124.0/23,BE,,Brussels
-93.152.12.0/22,US,,Los Angeles
-93.152.48.0/22,US,,Los Angeles
-93.152.64.0/22,US,,Los Angeles
-93.152.116.0/22,NL,,Hague
-93.152.0.0/23,BE,,Brussels
-93.152.10.0/23,BE,,Brussels
-93.152.30.0/23,MX,,Mexico
-93.152.38.0/23,MX,,Mexico
-93.152.46.0/23,MX,,Mexico
-93.152.52.0/23,MX,,Mexico
-93.152.56.0/23,MX,,Mexico
-93.152.62.0/23,MX,,Mexico
-93.152.76.0/23,MX,,Mexico
-93.152.80.0/23,MX,,Mexico
-93.152.84.0/23,MX,,Mexico
-93.152.94.0/23,MX,,Mexico
-93.152.98.0/23,MX,,Mexico
-93.152.102.0/23,MX,,Mexico
-93.152.124.0/23,MX,,Mexico
-92.71.6.0/24,MX,,Mexico
-92.71.9.0/24,MX,,Mexico
-92.71.12.0/24,MX,,Mexico
-92.71.18.0/24,MX,,Mexico
-92.71.23.0/24,MX,,Mexico
-92.71.61.0/24,MX,,Mexico
-213.201.240.0/20,US,,Ashburn
-213.201.184.0/23,TR,,Istanbul
-213.201.186.0/23,PL,,Warsaw
-213.201.188.0/23,TR,,Istanbul
-213.201.190.0/23,PL,,Warsaw
-213.201.216.0/23,TR,,Istanbul
-213.201.218.0/23,PL,,Warsaw
-213.201.220.0/23,TR,,Istanbul
-213.201.222.0/23,PL,,Warsaw
-213.201.152.0/23,TR,,Istanbul
-213.201.154.0/23,PL,,Warsaw
-213.201.164.0/23,TR,,Istanbul
-213.201.166.0/23,PL,,Warsaw
-213.201.172.0/23,TR,,Istanbul
-213.201.174.0/23,PL,,Warsaw
-213.201.180.0/23,TR,,Istanbul
-213.201.182.0/23 ,PL,,Warsaw
-213.201.192.0/23,TR,,Istanbul
-213.201.194.0/23,PL,,Warsaw
-213.201.212.0/23,TR,,Istanbul
-213.201.214.0/23,PL,,Warsaw
-213.201.232.0/23,TR,,Istanbul
-213.201.234.0/23,SE,,Stockholm
-213.201.232.0/22,TR,,Istanbul
-213.201.150.0/23,TR,,Istanbul
-213.201.156.0/23,TR,,Istanbul
-213.201.160.0/23,TR,,Istanbul
-213.201.168.0/23,TR,,Istanbul
-213.201.176.0/23,TR,,Istanbul
-213.201.196.0/23,BE,,Brussels
-213.201.208.0/23,BE,,Brussels
-213.201.226.0/23,BE,,Brussels
-213.201.228.0/23,BE,,Brussels
-213.201.238.0/23,BE,,Brussels
-84.37.192.0/18,US,,Ashburn
-84.37.32.0/20,US,,Ashburn
-84.37.176.0/20,US,,Ashburn
-84.37.72.0/23,TR,,Istanbul
-84.37.74.0/23,SE,,Stockholm
-84.37.76.0/23,TR,,Istanbul
-84.37.78.0/23,SE,,Stockholm
-84.37.88.0/23,TR,,Istanbul
-84.37.90.0/23 ,IT,,Milan
-84.37.92.0/23,TR,,Istanbul
-84.37.94.0/23,IT,,Milan
-84.37.152.0/23,TR,,Istanbul
-84.37.154.0/23 ,IT,,Milan
-84.37.156.0/23,TR,,Istanbul
-84.37.158.0/23,IT,,Milan
-84.37.160.0/23,TR,,Istanbul
-84.37.162.0/23,IT,,Milan
-84.37.164.0/23,TR,,Istanbul
-84.37.166.0/23,IT,,Milan
-84.37.56.0/22,NL,,Hague
-84.37.100.0/22,NL,,Hague
-84.37.128.0/22,NL,,Hague
-84.37.172.0/22,NL,,Hague
-84.37.0.0/23,TR,,Istanbul
-84.37.6.0/23,TR,,Istanbul
-84.37.18.0/23,TR,,Istanbul
-84.37.20.0/23,US,,Ashburn
-84.37.26.0/23,TR,,Istanbul
-84.37.30.0/23,TR,,Istanbul
-84.37.60.0/23,TR,,Istanbul
-84.37.64.0/23,US,,Ashburn
-84.37.70.0/23,US,,Ashburn
-84.37.96.0/23,TR,,Istanbul
-84.37.106.0/23,US,,Miami
-84.37.108.0/23,US,,Miami
-84.37.114.0/23,US,,Miami
-84.37.118.0/23,US,,Miami
-84.37.132.0/23,US,,Miami
-84.37.142.0/23,TR,,Istanbul
-84.37.150.0/23,BE,,Brussels
-84.37.170.0/23,BE,,Brussels
-79.121.132.0/23,DE,,Frankfurt
-79.121.134.0/23,US,,Seattle
-79.121.140.0/23 ,DE,,Frankfurt
-79.121.142.0/23,US,,Seattle
-79.121.148.0/23 ,DE,,Frankfurt
-79.121.150.0/23,US,,Seattle
-79.121.164.0/23,DE,,Frankfurt
-79.121.166.0/23,US,,Seattle
-79.121.212.0/23 ,DE,,Frankfurt
-79.121.214.0/23,US,,Seattle
-79.121.216.0/23 ,DE,,Frankfurt
-79.121.218.0/23,US,,Seattle
-79.121.232.0/23 ,DE,,Frankfurt
-79.121.234.0/23,US,,Seattle
-79.121.144.0/23,US,,Seattle
-79.121.154.0/23,DE,,Frankfurt
-79.121.156.0/23,US,,Seattle
-79.121.162.0/23,DE,,Frankfurt
-79.121.168.0/23,US,,Seattle
-79.121.178.0/23,DE,,Frankfurt
-79.121.180.0/23,US,,Seattle
-79.121.184.0/23,DE,,Frankfurt
-79.121.188.0/23,NL,,Hague
-79.121.194.0/23,NL,,Hague
-79.121.208.0/23,BE,,Brussels
-79.121.222.0/23,BE,,Brussels
-79.121.226.0/23,,,
-79.121.238.0/23,,,
-95.177.68.0/23,DE,,Frankfurt
-95.177.70.0/23,US,,Seattle
-95.177.76.0/23,DE,,Frankfurt
-95.177.78.0/23,US,,Seattle
-95.177.80.0/23 ,DE,,Frankfurt
-95.177.82.0/23,US,,Seattle
-95.177.104.0/23,DE,,Frankfurt
-95.177.106.0/23,US,,Seattle
-95.177.124.0/23 ,DE,,Frankfurt
-95.177.126.0/23,US,,Seattle
-95.177.0.0/23,FR,,Paris
-95.177.8.0/23,,,
-95.177.20.0/23,FR,,Paris
-95.177.54.0/23,,,
-95.177.64.0/23,FR,,Paris
-95.177.72.0/23,,,
-95.177.114.0/23,FR,,Paris
-94.185.128.0/23,IE,,Dublin
-94.185.130.0/23,UAE,,Dubai
-94.185.152.0/23,IE,,Dublin
-94.185.154.0/23,UAE,,Dubai
-94.185.168.0/23,IE,,Dublin
-94.185.170.0/23,UAE,,Dubai
-94.185.192.0/23,IE,,Dublin
-94.185.194.0/23,UAE,,Dubai
-94.185.200.0/23,IE,,Dublin
-94.185.202.0/23,UAE,,Dubai
-94.185.220.0/23,IE,,Dublin
-94.185.222.0/23,UAE,,Dubai
-94.185.132.0/23,IE,,Dublin
-94.185.136.0/23,IE,,Dublin
-94.185.142.0/23,UAE,,Dubai
-94.185.148.0/23,IE,,Dublin
-94.185.172.0/23,UAE,,Dubai
-94.185.180.0/23,IE,,Dublin
-94.185.186.0/23,UAE,,Dubai
-94.185.196.0/23,IE,,Dublin
-94.185.204.0/23,UAE,,Dubai
-94.185.214.0/23,IE,,Dublin
-94.185.216.0/23,UAE,,Dubai
-94.185.230.0/23,IE,,Dublin
-94.185.232.0/23,UAE,,Dubai
-109.174.128.0/23,IE,,Dublin
-109.174.130.0/23,UAE,,Dubai
-109.174.140.0/23,IE,,Dublin
-109.174.142.0/23,UAE,,Dubai
-109.174.160.0/23,IE,,Dublin
-109.174.162.0/23,UAE,,Dubai
-109.174.220.0/22,CO,,Bogota
-109.174.236.0/22,CO,,Bogota
-109.174.252.0/22,UAE,,Dubai
-109.174.134.0/23,UAE,,Dubai
-109.174.136.0/23,SA,,Dammam
-109.174.152.0/23,SA,,Dammam
-109.174.168.0/23,SA,,Dammam
-109.174.172.0/23,SA,,Dammam
-109.174.250.0/23,SA,,Dammam
-95.177.3.0/24,SA,,Dammam
-95.177.5.0/24,SA,,Dammam
-95.177.13.0/24,SA,,Dammam
-135.196.12.0/23,US,,Los Angeles
-135.196.228.0/23,US,,Los Angeles
-135.196.232.0/23,US,,Los Angeles
-135.196.238.0/23,US,,Los Angeles
-135.196.24.0/23,SA,,Dammam
-135.196.28.0/23,SA,,Dammam
-135.196.88.0/23,SA,,Dammam
-135.196.102.0/23,SA,,Dammam
-135.196.132.0/23,SA,,Dammam
-135.196.156.0/23,SA,,Dammam
-135.196.164.0/23,SA,,Dammam
-135.196.172.0/23,SA,,Dammam
-135.196.176.0/23,SA,,Dammam
-135.196.4.0/24,SA,,Dammam
-135.196.180.0/23,US,,Miami
-135.196.186.0/23,US,,Miami
-135.196.6.0/24,US,,Miami
-135.196.9.0/24,US,,Miami
-135.196.18.0/24,US,,Miami
-135.196.21.0/24,US,,Miami
-135.196.23.0/24,US,,Miami
-135.196.27.0/24,US,,Miami
-135.196.31.0/24,US,,Miami
-135.196.35.0/24,US,,Miami
-135.196.98.0/24,US,,Miami
-135.196.105.0/24,US,,Miami
-135.196.106.0/24,US,,Miami
-135.196.116.0/24,US,,Miami
-135.196.122.0/24,US,,Dallas
-135.196.127.0/24,US,,Dallas
-135.196.135.0/24,US,,Dallas
-93.152.3.0/24,US,,Dallas
-93.152.5.0/24,US,,Dallas
-93.152.7.0/24,US,,Dallas
-93.152.8.0/24,US,,Dallas
-93.152.16.0/24,US,,Dallas
-109.174.184.0/22,CA,,Toronto
-213.201.214.0/23,BR,,São Paulo
-93.152.28.0/24,BR,,São Paulo
-93.152.33.0/24,BR,,São Paulo
-93.152.34.0/24,BR,,São Paulo
-93.152.37.0/24,BR,,São Paulo
-109.174.180.0/22,ES,,Madrid
-93.152.58.0/24,FR,,Paris
-93.152.45.0/24,FR,,Paris
-93.152.43.0/24,FR,,Paris
-93.152.40.0/24,FR,,Paris
-93.152.61.0/24,FR,,Paris
-93.152.26.0/24,FR,,Paris
-93.152.24.0/24,FR,,Paris
-93.152.22.0/24,FR,,Paris
-109.174.176.0/22,JP,,Tokyo
-109.174.188.0/22,JP,,Tokyo
-135.196.80.0/21,US,,Los Angeles
+92.71.28.0/22,NL,,Hague,
+92.71.32.0/20,US,,Ashburn,
+92.71.48.0/21,,,,
+92.71.56.0/22,NL,,Hague,
+92.71.64.0/18,US,,Ashburn,
+92.71.2.0/23,BE,,Brussels,
+92.71.4.0/23,BE,,Brussels,
+92.71.26.0/23,BE,,Brussels,
+92.71.62.0/23,BE,,Brussels,
+109.204.0.0/22,US,,Los Angeles,
+109.204.16.0/22,US,,Los Angeles,
+109.204.24.0/22,US,,Los Angeles,
+109.204.96.0/22,US,,Los Angeles,
+109.204.104.0/21,HK,,Hong Kong,
+109.204.6.0/23,GB,,London,
+109.204.12.0/23,GB,,London,
+109.204.20.0/23,GB,,London,
+109.204.28.0/23,GB,,London,
+109.204.32.0/23,GB,,London,
+109.204.40.0/23,GB,,London,
+109.204.44.0/23,GB,,London,
+109.204.50.0/23,GB,,London,
+109.204.54.0/23,GB,,London,
+109.204.58.0/23,GB,,London,
+109.204.60.0/23,GB,,London,
+109.204.72.0/23,GB,,London,
+109.204.82.0/23,GB,,London,
+109.204.92.0/23,GB,,London,
+109.204.112.0/23,GB,,London,
+109.204.120.0/23,GB,,London,
+109.204.124.0/23,BE,,Brussels,
+93.152.12.0/22,US,,Los Angeles,
+93.152.48.0/22,US,,Los Angeles,
+93.152.64.0/22,US,,Los Angeles,
+93.152.116.0/22,NL,,Hague,
+93.152.0.0/23,BE,,Brussels,
+93.152.10.0/23,BE,,Brussels,
+93.152.30.0/23,MX,,Mexico,
+93.152.38.0/23,MX,,Mexico,
+93.152.46.0/23,MX,,Mexico,
+93.152.52.0/23,MX,,Mexico,
+93.152.56.0/23,MX,,Mexico,
+93.152.62.0/23,MX,,Mexico,
+93.152.76.0/23,MX,,Mexico,
+93.152.80.0/23,MX,,Mexico,
+93.152.84.0/23,MX,,Mexico,
+93.152.94.0/23,MX,,Mexico,
+93.152.98.0/23,MX,,Mexico,
+93.152.102.0/23,MX,,Mexico,
+93.152.124.0/23,MX,,Mexico,
+92.71.6.0/24,MX,,Mexico,
+92.71.9.0/24,MX,,Mexico,
+92.71.12.0/24,MX,,Mexico,
+92.71.18.0/24,MX,,Mexico,
+92.71.23.0/24,MX,,Mexico,
+92.71.61.0/24,MX,,Mexico,
+213.201.240.0/20,US,,Ashburn,
+213.201.184.0/23,TR,,Istanbul,
+213.201.186.0/23,PL,,Warsaw,
+213.201.188.0/23,TR,,Istanbul,
+213.201.190.0/23,PL,,Warsaw,
+213.201.216.0/23,TR,,Istanbul,
+213.201.218.0/23,PL,,Warsaw,
+213.201.220.0/23,TR,,Istanbul,
+213.201.222.0/23,PL,,Warsaw,
+213.201.152.0/23,TR,,Istanbul,
+213.201.154.0/23,PL,,Warsaw,
+213.201.164.0/23,TR,,Istanbul,
+213.201.166.0/23,PL,,Warsaw,
+213.201.172.0/23,TR,,Istanbul,
+213.201.174.0/23,PL,,Warsaw,
+213.201.180.0/23,TR,,Istanbul,
+213.201.182.0/23 ,PL,,Warsaw,
+213.201.192.0/23,TR,,Istanbul,
+213.201.194.0/23,PL,,Warsaw,
+213.201.212.0/23,TR,,Istanbul,
+213.201.214.0/23,PL,,Warsaw,
+213.201.232.0/23,TR,,Istanbul,
+213.201.234.0/23,SE,,Stockholm,
+213.201.232.0/22,TR,,Istanbul,
+213.201.150.0/23,TR,,Istanbul,
+213.201.156.0/23,TR,,Istanbul,
+213.201.160.0/23,TR,,Istanbul,
+213.201.168.0/23,TR,,Istanbul,
+213.201.176.0/23,TR,,Istanbul,
+213.201.196.0/23,BE,,Brussels,
+213.201.208.0/23,BE,,Brussels,
+213.201.226.0/23,BE,,Brussels,
+213.201.228.0/23,BE,,Brussels,
+213.201.238.0/23,BE,,Brussels,
+84.37.192.0/18,US,,Ashburn,
+84.37.32.0/20,US,,Ashburn,
+84.37.176.0/20,US,,Ashburn,
+84.37.72.0/23,TR,,Istanbul,
+84.37.74.0/23,SE,,Stockholm,
+84.37.76.0/23,TR,,Istanbul,
+84.37.78.0/23,SE,,Stockholm,
+84.37.88.0/23,TR,,Istanbul,
+84.37.90.0/23 ,IT,,Milan,
+84.37.92.0/23,TR,,Istanbul,
+84.37.94.0/23,IT,,Milan,
+84.37.152.0/23,TR,,Istanbul,
+84.37.154.0/23 ,IT,,Milan,
+84.37.156.0/23,TR,,Istanbul,
+84.37.158.0/23,IT,,Milan,
+84.37.160.0/23,TR,,Istanbul,
+84.37.162.0/23,IT,,Milan,
+84.37.164.0/23,TR,,Istanbul,
+84.37.166.0/23,IT,,Milan,
+84.37.56.0/22,NL,,Hague,
+84.37.100.0/22,NL,,Hague,
+84.37.128.0/22,NL,,Hague,
+84.37.172.0/22,NL,,Hague,
+84.37.0.0/23,TR,,Istanbul,
+84.37.6.0/23,TR,,Istanbul,
+84.37.18.0/23,TR,,Istanbul,
+84.37.20.0/23,US,,Ashburn,
+84.37.26.0/23,TR,,Istanbul,
+84.37.30.0/23,TR,,Istanbul,
+84.37.60.0/23,TR,,Istanbul,
+84.37.64.0/23,US,,Ashburn,
+84.37.70.0/23,US,,Ashburn,
+84.37.96.0/23,TR,,Istanbul,
+84.37.106.0/23,US,,Miami,
+84.37.108.0/23,US,,Miami,
+84.37.114.0/23,US,,Miami,
+84.37.118.0/23,US,,Miami,
+84.37.132.0/23,US,,Miami,
+84.37.142.0/23,TR,,Istanbul,
+84.37.150.0/23,BE,,Brussels,
+84.37.170.0/23,BE,,Brussels,
+79.121.132.0/23,DE,,Frankfurt,
+79.121.134.0/23,US,,Seattle,
+79.121.140.0/23 ,DE,,Frankfurt,
+79.121.142.0/23,US,,Seattle,
+79.121.148.0/23 ,DE,,Frankfurt,
+79.121.150.0/23,US,,Seattle,
+79.121.164.0/23,DE,,Frankfurt,
+79.121.166.0/23,US,,Seattle,
+79.121.212.0/23 ,DE,,Frankfurt,
+79.121.214.0/23,US,,Seattle,
+79.121.216.0/23 ,DE,,Frankfurt,
+79.121.218.0/23,US,,Seattle,
+79.121.232.0/23 ,DE,,Frankfurt,
+79.121.234.0/23,US,,Seattle,
+79.121.144.0/23,US,,Seattle,
+79.121.154.0/23,DE,,Frankfurt,
+79.121.156.0/23,US,,Seattle,
+79.121.162.0/23,DE,,Frankfurt,
+79.121.168.0/23,US,,Seattle,
+79.121.178.0/23,DE,,Frankfurt,
+79.121.180.0/23,US,,Seattle,
+79.121.184.0/23,DE,,Frankfurt,
+79.121.188.0/23,NL,,Hague,
+79.121.194.0/23,NL,,Hague,
+79.121.208.0/23,BE,,Brussels,
+79.121.222.0/23,BE,,Brussels,
+79.121.226.0/23,,,,
+79.121.238.0/23,,,,
+95.177.68.0/23,DE,,Frankfurt,
+95.177.70.0/23,US,,Seattle,
+95.177.76.0/23,DE,,Frankfurt,
+95.177.78.0/23,US,,Seattle,
+95.177.80.0/23 ,DE,,Frankfurt,
+95.177.82.0/23,US,,Seattle,
+95.177.104.0/23,DE,,Frankfurt,
+95.177.106.0/23,US,,Seattle,
+95.177.124.0/23 ,DE,,Frankfurt,
+95.177.126.0/23,US,,Seattle,
+95.177.0.0/23,FR,,Paris,
+95.177.8.0/23,,,,
+95.177.20.0/23,FR,,Paris,
+95.177.54.0/23,,,,
+95.177.64.0/23,FR,,Paris,
+95.177.72.0/23,,,,
+95.177.114.0/23,FR,,Paris,
+94.185.128.0/23,IE,,Dublin,
+94.185.130.0/23,UAE,,Dubai,
+94.185.152.0/23,IE,,Dublin,
+94.185.154.0/23,UAE,,Dubai,
+94.185.168.0/23,IE,,Dublin,
+94.185.170.0/23,UAE,,Dubai,
+94.185.192.0/23,IE,,Dublin,
+94.185.194.0/23,UAE,,Dubai,
+94.185.200.0/23,IE,,Dublin,
+94.185.202.0/23,UAE,,Dubai,
+94.185.220.0/23,IE,,Dublin,
+94.185.222.0/23,UAE,,Dubai,
+94.185.132.0/23,IE,,Dublin,
+94.185.136.0/23,IE,,Dublin,
+94.185.142.0/23,UAE,,Dubai,
+94.185.148.0/23,IE,,Dublin,
+94.185.172.0/23,UAE,,Dubai,
+94.185.180.0/23,IE,,Dublin,
+94.185.186.0/23,UAE,,Dubai,
+94.185.196.0/23,IE,,Dublin,
+94.185.204.0/23,UAE,,Dubai,
+94.185.214.0/23,IE,,Dublin,
+94.185.216.0/23,UAE,,Dubai,
+94.185.230.0/23,IE,,Dublin,
+94.185.232.0/23,UAE,,Dubai,
+109.174.128.0/23,IE,,Dublin,
+109.174.130.0/23,UAE,,Dubai,
+109.174.140.0/23,IE,,Dublin,
+109.174.142.0/23,UAE,,Dubai,
+109.174.160.0/23,IE,,Dublin,
+109.174.162.0/23,UAE,,Dubai,
+109.174.220.0/22,CO,,Bogota,
+109.174.236.0/22,CO,,Bogota,
+109.174.252.0/22,UAE,,Dubai,
+109.174.134.0/23,UAE,,Dubai,
+109.174.136.0/23,SA,,Dammam,
+109.174.152.0/23,SA,,Dammam,
+109.174.168.0/23,SA,,Dammam,
+109.174.172.0/23,SA,,Dammam,
+109.174.250.0/23,SA,,Dammam,
+95.177.3.0/24,SA,,Dammam,
+95.177.5.0/24,SA,,Dammam,
+95.177.13.0/24,SA,,Dammam,
+135.196.12.0/23,US,,Los Angeles,
+135.196.228.0/23,US,,Los Angeles,
+135.196.232.0/23,US,,Los Angeles,
+135.196.238.0/23,US,,Los Angeles,
+135.196.24.0/23,SA,,Dammam,
+135.196.28.0/23,SA,,Dammam,
+135.196.88.0/23,SA,,Dammam,
+135.196.102.0/23,SA,,Dammam,
+135.196.132.0/23,SA,,Dammam,
+135.196.156.0/23,SA,,Dammam,
+135.196.164.0/23,SA,,Dammam,
+135.196.172.0/23,SA,,Dammam,
+135.196.176.0/23,SA,,Dammam,
+135.196.4.0/24,SA,,Dammam,
+135.196.180.0/23,US,,Miami,
+135.196.186.0/23,US,,Miami,
+135.196.6.0/24,US,,Miami,
+135.196.9.0/24,US,,Miami,
+135.196.18.0/24,US,,Miami,
+135.196.21.0/24,US,,Miami,
+135.196.23.0/24,US,,Miami,
+135.196.27.0/24,US,,Miami,
+135.196.31.0/24,US,,Miami,
+135.196.35.0/24,US,,Miami,
+135.196.98.0/24,US,,Miami,
+135.196.105.0/24,US,,Miami,
+135.196.106.0/24,US,,Miami,
+135.196.116.0/24,US,,Miami,
+135.196.122.0/24,US,,Dallas,
+135.196.127.0/24,US,,Dallas,
+135.196.135.0/24,US,,Dallas,
+93.152.3.0/24,US,,Dallas,
+93.152.5.0/24,US,,Dallas,
+93.152.7.0/24,US,,Dallas,
+93.152.8.0/24,US,,Dallas,
+93.152.16.0/24,US,,Dallas,
+109.174.184.0/22,CA,,Toronto,
+213.201.214.0/23,BR,,São Paulo,
+93.152.28.0/24,BR,,São Paulo,
+93.152.33.0/24,BR,,São Paulo,
+93.152.34.0/24,BR,,São Paulo,
+93.152.37.0/24,BR,,São Paulo,
+109.174.180.0/22,ES,,Madrid,
+93.152.58.0/24,FR,,Paris,
+93.152.45.0/24,FR,,Paris,
+93.152.43.0/24,FR,,Paris,
+93.152.40.0/24,FR,,Paris,
+93.152.61.0/24,FR,,Paris,
+93.152.26.0/24,FR,,Paris,
+93.152.24.0/24,FR,,Paris,
+93.152.22.0/24,FR,,Paris,
+109.174.176.0/22,JP,,Tokyo,
+109.174.188.0/22,JP,,Tokyo,
+135.196.80.0/21,US,,Los Angeles,
+93.152.18.0/24,FR,,Paris,
+93.152.21.0/24,FR,,Paris,
+109.204.21.0/24,FR,,Paris,
+109.204.29.0/24,FR,,Paris,
+109.204.41.0/24,FR,,Paris,
+109.204.45.0/24,FR,,Paris,
+109.204.54.0/24,FR,,Paris,
+109.204.58.0/24,FR,,Paris,
+109.204.112.0/24,FR,,Paris,
+109.204.121.0/24,FR,,Paris,
