@@ -185,7 +185,7 @@
 95.177.104.0/23,DE,,Frankfurt,
 95.177.106.0/23,US,WA,Seattle,
 95.177.124.0/23 ,DE,,Frankfurt,
-95.177.126.0/23,US,,Seattle,
+95.177.126.0/23,US,WA,Seattle,
 95.177.0.0/23,FR,,Paris,
 95.177.8.0/23,DE,,Frankfurt,
 95.177.20.0/23,FR,,Paris,
@@ -507,6 +507,7 @@
 195.40.24.0/23,US,CA,Los Angeles,
 195.40.22.0/23,US,CA,Los Angeles,
 212.135.6.0/23,US,CA,Los Angeles,
+
 
 
 
