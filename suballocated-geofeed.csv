@@ -357,7 +357,7 @@
 135.196.171.0/24,SG,,Singapore,
 93.152.97.0/24,SG,,Singapore,
 79.121.200.0/21,US,NY,New York,
-135.196.48.0/20,US,FL,Miami,
+135.196.48.0/21,US,IL,Chicago,
 135.196.136.0/21,US,,Atlanta,
 109.174.236.0/22,KR,,Seoul,
 135.196.155.0/24,KR,,Seoul,
@@ -735,3 +735,4 @@
 64.144.220.0/23,IN,,New Delhi,
 67.102.164.0/23,IN,,New Delhi,
 64.105.84.0/23,IN,,New Delhi,
+
