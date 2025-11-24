@@ -773,8 +773,8 @@
 213.169.246.0/23,SG,,Singapore,
 64.139.56.0/23,AU,,Sydney,
 213.169.206.0/23,AU,,Sydney,
-217.22.252.0/23,NZ,,Wellington,
-64.105.88.0/23,NZ,,Wellington,
+217.22.252.0/23,NZ,,Auckland,
+64.105.88.0/23,NZ,,Auckland,
 64.105.224.0/23,BE,,Antwerp,
 209.166.12.0/23,BE,,Antwerp,
 213.169.204.0/23,BE,,Antwerp,
@@ -794,5 +794,6 @@
 64.139.48.0/23,AU,,Sydney,
 64.139.46.0/23,AU,,Sydney,
 64.139.42.0/23,AU,,Sydney,
+
 
 
