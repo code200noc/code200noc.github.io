@@ -27,6 +27,7 @@
 72.63.40.0/22,US,WA,Washington,
 72.63.44.0/22,US,WA,Washington,
 72.63.56.0/22,US,WA,Washington,
+
 72.63.64.0/22,US,WA,Washington,
 72.63.152.0/22,US,WA,Washington,
 45.117.53.0/24,JP,,Tokyo,
@@ -72,4 +73,8 @@
 103.196.9.0/24,US,NY,New York,
 45.117.52.0/24,US,NY,New York,
 45.123.144.0/24,US,NY,New York,
-103.196.8.0/24,NY,New York,
+103.196.8.0/24,US,NY,New York,
+152.163.116.0/22,US,FL,Miami,
+205.188.8.0/22,US,FL,Miami,
+205.188.52.0/22,US,FL,Miami,
+205.188.96.0/22,US,FL,Miami,
