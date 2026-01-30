@@ -816,9 +816,10 @@
 68.167.138.0/23,US,CA,Los Angeles,
 68.165.96.0/23,US,CA,Los Angeles,
 66.95.192.0/23,US,CA,Los Angeles,
-87.86.84.0/23,AT,Vienna,
-87.86.82.0/23,AT,Vienna,
-87.86.8.0/22,AT,Vienna,
+87.86.84.0/23,AT,,Vienna,
+87.86.82.0/23,AT,,Vienna,
+87.86.8.0/22,AT,,Vienna,
+
 
 
 
