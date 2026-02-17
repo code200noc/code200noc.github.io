@@ -27,7 +27,6 @@
 72.63.40.0/22,US,WA,Washington,
 72.63.44.0/22,US,WA,Washington,
 72.63.56.0/22,US,WA,Washington,
-
 72.63.64.0/22,US,WA,Washington,
 72.63.152.0/22,US,WA,Washington,
 45.117.53.0/24,JP,,Tokyo,
@@ -171,3 +170,6 @@
 205.188.244.0/22,RO,,Bucharest,
 205.188.110.0/23,RO,,Bucharest,
 205.188.168.0/23,RO,,Bucharest,
+205.188.248.0/23,DE,,Frankfurt,
+205.188.236.0/23,UK,,Manchester,
+205.188.60.0/23,US,,New York,
