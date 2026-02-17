@@ -420,10 +420,7 @@
 68.167.140.0/23,IN,,Mumbai,
 68.167.148.0/23,IN,,Mumbai,
 66.134.86.0/24,IN,,Mumbai,
-92.244.178.0/23,IN,,New Delhi,
-92.244.188.0/23,IN,,New Delhi,
 66.95.200.0/23,IN,,New Delhi,
-68.167.158.0/23,IN,,New Delhi,
 109.204.117.0/24,BE,,Brussels,
 109.204.118.0/24,BE,,Brussels,
 195.40.108.0/23,BE,,Brussels,
@@ -813,6 +810,7 @@
 68.166.182.0/23,DE,,Frankfurt,
 212.135.234.0/23,GB,,Manchester,
 66.95.202.0/23,US,NY,New York,
+
 
 
 
