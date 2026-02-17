@@ -424,7 +424,6 @@
 109.204.127.0/24,IN,,New Delhi,
 212.134.72.0/23,IN,,New Delhi,
 212.135.5.0/24,IN,,New Delhi,
-212.135.234.0/23,IN,,New Delhi,
 195.40.188.0/23,IN,,New Delhi,
 195.40.86.0/24,IN,,New Delhi,
 92.244.178.0/23,IN,,New Delhi,
@@ -434,8 +433,6 @@
 195.172.98.0/23,IN,,New Delhi,
 195.172.212.0/23,IN,,New Delhi,
 66.95.200.0/23,IN,,New Delhi,
-66.95.202.0/23,IN,,New Delhi,
-68.166.182.0/23,IN,,New Delhi,
 68.167.158.0/23,IN,,New Delhi,
 209.101.22.0/23,IN,,New Delhi,
 209.101.63.0/24,IN,,New Delhi,
@@ -825,6 +822,9 @@
 92.244.188.0/23,DE,,Frankfurt,
 92.244.178.0/23,DE,,Frankfurt,
 68.167.158.0/23,DE,,Frankfurt,
+68.166.182.0/23,DE,,Frankfurt,
+212.135.234.0/23,GB,,Manchester,
+66.95.202.0/23,US,NY,New York,
 
 
 
