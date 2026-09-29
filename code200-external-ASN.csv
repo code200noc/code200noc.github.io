@@ -424,4 +424,6 @@
 189.104.72.0/23,US,VA,Ashburn,
 189.104.86.0/23,US,VA,Ashburn,
 195.64.97.0/24,NL,,Hague,
-189.81.50.0/23,GR,Athens,Athens,
+189.81.50.0/23,GR,Attica,Athens,
+189.81.244.0/23,EE,Harjumaa,Tallinn,
+189.104.208.0/23,EE,Harjumaa,Tallinn,
